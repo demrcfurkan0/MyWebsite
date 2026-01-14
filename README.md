@@ -1,73 +1,41 @@
-# Welcome to your Lovable project
+# 🛡️ Furkan Demirci | Security Researcher & Offensive Engineer
 
-## Project info
+**"Securing systems. Breaking boundaries."**
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+A Software Engineering student and Security Researcher with a deep focus on **Offensive Security** and **Secure Software Development**. I specialize in building resilient systems and identifying vulnerabilities through penetration testing and malware analysis.
 
-## How can I edit this code?
+## 🚀 Professional Profile
 
-There are several ways of editing your application.
+* [cite_start]**Current Focus:** Completing B.S. in Software Engineering at Istanbul Aydin University.
+* [cite_start]**Core Expertise:** Penetration Testing (HTB, THM), Vulnerability Analysis, and Secure Backend Development (Java/Spring Boot).
+* [cite_start]**Certifications:** Akbank Cyber Security Analyst (Cisco Cyberops), Google Cybersecurity, and Aspire Leaders (Harvard).
 
-**Use Lovable**
+## 🛠️ Security & Technical Arsenal
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+### 🔴 Offensive & Analysis
+* [cite_start]**Tools:** Burp Suite, Metasploit, Nmap, Nessus, Wireshark, Ghidra.
+* [cite_start]**Skills:** Pentesting, Reverse Engineering, Vulnerability Analysis, and Python for Security.
+* [cite_start]**Network:** TCP/IP, DNS/DHCP, VPN, and Firewall Management (FortiGate).
 
-Changes made via Lovable will be committed automatically to this repo.
+### 🔵 Defensive & Development
+* [cite_start]**Blue Teaming:** Log Analysis, ML-Based Threat Detection, SIEM Monitoring, and Incident Response.
+* [cite_start]**DevSecOps:** Developing microservices with Java/Spring Boot, JWT Authentication, and Secure API Gateways.
+* [cite_start]**Stack:** Python, Java, FastAPI, PostgreSQL, Docker, and REST APIs.
 
-**Use your preferred IDE**
+## 🧪 Featured Project: AI-Driven Cyber Attack Simulation
+* [cite_start]**Objective:** Simulated DDoS, SQLi, and Brute Force attacks using Python.
+* [cite_start]**Detection:** Trained Random Forest and SVM models on the CICIDS2017 dataset to identify attack patterns.
+* [cite_start]**Infrastructure:** Built a real-time attack dashboard with React & Chart.js, using FastAPI for the detection engine.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 💼 Work Experience
+* **Datassist (Software Development):** Focused on zero-trust principles, traffic isolation, and secure tunneling in microservice architectures.
+* **Zenatives (IT Systems & Security):** Conducted security monitoring, user access audits, and endpoint hardening for corporate infrastructure.
+* **Memteks (IT Technician Intern):** Configured secure workstations and provided training for secure system usage.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🔗 Connect With Me
+* **LinkedIn:** [Furkan Demirci](https://www.linkedin.com/in/furkan-demirci-x/)
+* **GitHub:** [github.com/furkandemirci](https://github.com/demrcfurkan0) 
+* **TryHackMe / HackTheBox:** Available upon request or via site badges.
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+*English Proficiency: C1 Advanced* 
